@@ -4,4 +4,5 @@ gitflow_workshop
 2. Releasing 0.2.0-beta.0
 3. Added Bugfixwq
 4. OFL feature
-5. Creating Release
+5. Creating Release"
+6. ADD Hotfix
