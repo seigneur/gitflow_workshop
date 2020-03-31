@@ -6,3 +6,4 @@ gitflow_workshop
 4. OFL feature
 5. Creating Release"
 6. ADD Hotfix
+7. test 0.4.0
